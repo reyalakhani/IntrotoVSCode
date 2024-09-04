@@ -1,0 +1,4 @@
+myvenv/ 
+
+git config --global user.email "reya_lakhani1@baylor.edu"
+git config --global user.name "Reya Lakhani
